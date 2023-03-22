@@ -1,0 +1,22 @@
+programa
+{
+	funcao inicio ()
+	{
+		cadeia nome 		
+		inteiro idade, anonasc, anoatual
+
+		escreva("Digite seu nome: ")
+		leia(nome)
+
+		escreva(nome + " ,digite o ano atual: ")
+		leia(anoatual)
+
+		escreva(nome + " ,digite o ano que você nasceu: ")
+		leia(anonasc)
+
+		idade = (anoatual - anonasc)
+
+		escreva(nome + " você tem " + idade + " anos.")
+	}
+}
+
