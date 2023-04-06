@@ -1,6 +1,7 @@
 programa
 {
-	inteiro carro_p, camin_ul, moto_qua, numero, calculo1, calculo2, calculo3
+	
+inteiro carro_p, camin_ul, moto_qua, numero, calculo1, calculo2, calculo3
 	real IPVA, valor
 
 	
@@ -31,14 +32,3 @@ programa
 	 	
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 271; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
